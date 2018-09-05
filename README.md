@@ -2,7 +2,7 @@
 
 ### 更新
 - 提升hoek版本，修复漏洞危险
-
+- 添加评论功能。
 ## 简介
 1. 该博客是基于hexo搭建的一个个人博客
 ## 过程
@@ -25,3 +25,6 @@
     - npm i -S hexo-helper-qrcode
 - 在hexo中添加字数统计、阅读时长
     - npm i --save hexo-wordcount
+
+## 评论功能
+- 使用Valine评论系统
