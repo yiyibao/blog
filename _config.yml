@@ -8,7 +8,7 @@ subtitle: 个人博客
 description: 前端技术
 keywords:
 author: Jhon wang
-language: zh-Hans
+language: zh-CN
 timezone:
 
 # URL
@@ -79,3 +79,7 @@ theme: landscape
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type:
+admin:
+  username: wanglixin	
+  password_hash: $2a$10$O.fRPWTRd89bR/8VO8aG6OpdlQrj9uRg5TDSSk3KrnLEPYDFPwGPm
+  secret: nothing
