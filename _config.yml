@@ -78,7 +78,10 @@ theme: next
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type:
+  type: git
+  repo: https://github.com/438345494/438345494.github.io.git
+  branch: master
+
 admin:
   username: wanglixin	
   password_hash: $2a$10$O.fRPWTRd89bR/8VO8aG6OpdlQrj9uRg5TDSSk3KrnLEPYDFPwGPm
