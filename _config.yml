@@ -87,3 +87,9 @@ admin:
   password_hash: $2a$10$O.fRPWTRd89bR/8VO8aG6OpdlQrj9uRg5TDSSk3KrnLEPYDFPwGPm
   secret: nothing
 
+# 站内搜索
+search: 
+  path: search.xml
+  field: post
+  format: html
+  limit: 10000
